@@ -73,7 +73,7 @@ curl -X POST -H "Content-Type: application/json" -d '{"departureAirportCode":"LH
 
 ## Swagger UI
 You can also access the Swagger UI at:
-http://localhost:8080/swagger-ui.html
+http://localhost:8080/swagger-ui/index.html
 
 ## API Response
 
